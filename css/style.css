@@ -16,10 +16,11 @@ footer div p, footer div a {
     color: #ffffff;
     justify-content: space-evenly;
     font-size: 20px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 }
 
-footer div p, footer div a:hover {
-    
+footer div p:hover, footer div a:hover {
+    background-color: green;
 }
 
 /* styling for the logo font within the techstack section of the page */
