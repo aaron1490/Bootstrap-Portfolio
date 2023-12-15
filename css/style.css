@@ -10,17 +10,24 @@ div img {
 }
 
 /* display styling for footer contact */
-footer div p, footer div a {
-    display: inline;
-    text-decoration: none;
+#contact-method {
+    display: flex;
     color: #ffffff;
     justify-content: space-evenly;
     font-size: 20px;
-    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 }
 
-footer div p:hover, footer div a:hover {
+footer div a, footer div pre{
+    padding: 0px 5px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer div a:hover, footer div pre:hover {
     background-color: green;
+    box-shadow: 0px 0px 20px 20px green;
+    color: #060a06;
+    font-size: 20px;
 }
 
 /* styling for the logo font within the techstack section of the page */
@@ -43,4 +50,16 @@ section p {
 
 section {
     padding-top: 20px;
+}
+
+@media only screen and (max-width: 991px) {
+    #contact-method {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .nowrap {
+        flex-direction: column;
+        white-space: nowrap;
+    }
 }
