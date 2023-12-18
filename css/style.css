@@ -1,3 +1,4 @@
+/* CSS styling for body of the page */
 body {
     background-color: #060a06;
     color: #ffffff;
@@ -13,6 +14,13 @@ body {
     -webkit-box-reflect: below 10px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.1));
 }
 
+
+/* styling for the logo font within the techstack section of the page */
+.fs-1 {
+    font-size: calc(3rem + 1.5vw)!important;
+}
+
+
 /* display styling for footer contact */
 #contact-method {
     display: flex;
@@ -21,12 +29,15 @@ body {
     font-size: 20px;
 }
 
+
+/* CSS styling links in contact me section */
 footer div a, footer div pre{
     padding: 0px 5px;
     text-decoration: none;
     color: #ffffff;
 }
 
+/* hover function added with box shadow for project requirements */
 footer div a:hover, footer div pre:hover {
     background-color: green;
     box-shadow: 0px 0px 20px 20px green;
@@ -34,30 +45,30 @@ footer div a:hover, footer div pre:hover {
     font-size: 20px;
 }
 
-/* styling for the logo font within the techstack section of the page */
-.fs-1 {
-    font-size: calc(3rem + 1.5vw)!important;
-}
 
-
-/* selector for footer section of page */
+/* selector for footer section of page with bg banner image added */
 footer {
     background-image: url(../images/bg.jpg);
     height: 325px;
     width: 100%;
     background-repeat: no-repeat;
-
 }
 
+
+/* CSS selector for adding space above the footer section */
+section {
+    padding-top: 20px;
+}
+
+
+/* CSS selector for added spacing in the lines of the copyright section */
 section p {
     line-height: 1.5px;
     text-align: center;
 }
 
-section {
-    padding-top: 20px;
-}
 
+/* media query for resizing the contact me section so that it displays better when viewing on a smaller viewport  */
 @media only screen and (max-width: 991px) {
     #contact-method {
         display: flex;
@@ -70,6 +81,8 @@ section {
     }
 }
 
+
+/* media query for resizing profile picture in hero banner when viewing on a smaller viewport */
 @media only screen and (max-width: 775px) {
     .row img {
         position: relative;
