@@ -53,7 +53,7 @@ Feel free to contact me if you have any questions or just want to connect:
 
 ## Links
 
-- [Link to the code repository]()
+- [Link to the code repository](https://github.com/aaron1490/Bootstrap-Portfolio)
 - [Link to the deployed page]()
 
  a
