@@ -54,7 +54,7 @@ Feel free to contact me if you have any questions or just want to connect:
 ## Links
 
 - [Link to the code repository](https://github.com/aaron1490/Bootstrap-Portfolio)
-- [Link to the deployed page]()
+- [Link to the deployed page](https://aaron1490.github.io/Bootstrap-Portfolio/)
 
  a
 ## Challenge Direction
