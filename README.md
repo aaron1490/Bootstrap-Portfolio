@@ -25,34 +25,36 @@ Similar in many ways to my previous [challenge from Unit 2](https://github.com/a
 
 ## Features
 
-- NavBar:
+- NavBar: Simple navigational tool for my page
+  - Have a simple avatar image within nav bar.
   - NavBar contains a drop down menu.
   - Entire NavBar gets reduced to a hamburger menu through bootstrap's built in CSS Media Queries.
 
-- Contact Me Section:
+- Hero Banner: Section with my name, picture and brief description
+  - Contains image of myself along with my name and some text giving users a brief overview of who I am and what I do.
+  - Profile image snaps to top of text when page is resized.
+
+- About Me: Learn more about my background, skills and interests.
+
+- Techstack: 
+  - Techstack section contains fontawesome font that have been resized to display on the page this is done via a idiomatic text element through fontawesome JS CDN.
+
+- My Projects: a section that displays my project portfolio with relevant tools used for each project.
+
+- Contact Me Section: Reach out to me through the provided contact methods.
   - Text and links within the contact me section light up with a green background colour and box shadow upon hover.
 
-## Before You Begin
+## Contact
 
-* You've learned a ton of material: HTML, CSS, GitHub, GitHub Pages, and Bootstrap. If you feel like you're falling behind, there's no need to panic. You'll have plenty of time to digest and master this material.
+Feel free to contact me if you have any questions or just want to connect:
 
-* We're diving into JavaScript next unit, and HTML/CSS will start receiving less focus. Still, you'll find that a basic knowledge of HTML/CSS will help you understand JavaScript, especially when we use it to manipulate web pages.
+- [Click here to email me!](mailto:aaronarmstrong1490@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/aaron-armstrong-%E8%89%BE%E4%BF%8A%E6%A8%82-80986ba5/)
 
-## Commits
+## Links
 
-* Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
-
-* Committing often is a signal to employers that you are actively working on your code and learning.
-
-  * We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
-
-  * Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
-
-* Be clear and descriptive in your commit messaging.
-
-  * When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
+- [Link to the code repository]()
+- [Link to the deployed page]()
 
 ## Instructions
 

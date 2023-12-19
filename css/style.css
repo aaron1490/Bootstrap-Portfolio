@@ -21,6 +21,17 @@ body {
 }
 
 
+/* hover effect for my resume button in nav bar */
+#my-resume:hover {
+    background-color: green !important;
+}
+
+/* hover effect for learn more button in hero banner */
+#learn-more:hover {
+    background-color: green !important;
+}
+
+
 /* display styling for footer contact */
 #contact-method {
     display: flex;
