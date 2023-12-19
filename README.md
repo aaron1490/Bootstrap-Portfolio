@@ -1,8 +1,36 @@
 # Unit 3 Challenge: Code Bootstrap Portfolio
 
-## Overview
+Welcome to the repository for my personal portfolio website! I'm thrilled to share my journey as an aspiring front-end developer and showcase the projects and skills that represent my passion for web development. This README file will guide you through the structure of the project and provide information on how to set it up locally.
 
-In this assignment, you'll be building your portfolio layout using the Bootstrap CSS Framework.
+## Project Overview
+
+This repository contains the source code for my personal portfolio website. The website is designed to showcase my skills, projects, and experience as a front-end developer. Feel free to explore the various sections of the website and learn more about me and my work.
+
+In this assignment, I will be building my portfolio layout using the Bootstrap CSS Framework.
+
+Similar in many ways to my previous [challenge from Unit 2](https://github.com/aaron1490/aaron-armstrong-project-portfolio). However, in this version, I am expected to utilise certain boostrap CSS elements and flair!
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- [Bootstrap v5.3.2](https://getbootstrap.com/) 
+  - CDN contains CSS and JavaScript Styling
+
+## Project Structure
+
+- [index.html](https://github.com/aaron1490/Bootstrap-Portfolio/blob/main/index.html) - The main HTML file that structures the content fo the portfolio
+  - NB this contains some in-line styling for bootstrap elements.
+- [style.css](https://github.com/aaron1490/Bootstrap-Portfolio/blob/main/css/style.css) - The style sheet is an add on to further customise bootstrap elements.
+
+## Features
+
+- NavBar:
+  - NavBar contains a drop down menu.
+  - Entire NavBar gets reduced to a hamburger menu through bootstrap's built in CSS Media Queries.
+
+- Contact Me Section:
+  - Text and links within the contact me section light up with a green background colour and box shadow upon hover.
 
 ## Before You Begin
 

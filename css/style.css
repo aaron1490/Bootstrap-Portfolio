@@ -31,17 +31,17 @@ body {
 
 
 /* CSS styling links in contact me section */
-footer div a, footer div pre{
+footer div a {
     padding: 0px 5px;
     text-decoration: none;
     color: #ffffff;
 }
 
 /* hover function added with box shadow for project requirements */
-footer div a:hover, footer div pre:hover {
+.nowrap:hover {
     background-color: green;
     box-shadow: 0px 0px 20px 20px green;
-    color: #060a06;
+    color: #ffff;   
     font-size: 20px;
 }
 
