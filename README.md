@@ -10,6 +10,7 @@ In this assignment, I will be building my portfolio layout using the Bootstrap C
 
 Similar in many ways to my previous [challenge from Unit 2](https://github.com/aaron1490/aaron-armstrong-project-portfolio). However, in this version, I am expected to utilise certain boostrap CSS elements and flair!
 
+
 ## Technologies Used
 
 - HTML5
@@ -17,11 +18,13 @@ Similar in many ways to my previous [challenge from Unit 2](https://github.com/a
 - [Bootstrap v5.3.2](https://getbootstrap.com/) 
   - CDN contains CSS and JavaScript Styling
 
+
 ## Project Structure
 
 - [index.html](https://github.com/aaron1490/Bootstrap-Portfolio/blob/main/index.html) - The main HTML file that structures the content fo the portfolio
   - NB this contains some in-line styling for bootstrap elements.
 - [style.css](https://github.com/aaron1490/Bootstrap-Portfolio/blob/main/css/style.css) - The style sheet is an add on to further customise bootstrap elements.
+
 
 ## Features
 
@@ -55,6 +58,15 @@ Feel free to contact me if you have any questions or just want to connect:
 
 - [Link to the code repository](https://github.com/aaron1490/Bootstrap-Portfolio)
 - [Link to the deployed page](https://aaron1490.github.io/Bootstrap-Portfolio/)
+
+
+## Page Demo
+
+![Demo of the page top](./images/demo1.PNG)
+![Demo of the page middle](./images/demo2.PNG)
+![Demo of box shadow and hover effect in contact me section](./images/demo4.PNG)
+![Demo of mobile responsive navbar](./images/demo3.PNG)
+
 
 ## Challenge Direction
 
